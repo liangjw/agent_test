@@ -1,0 +1,5 @@
+{
+  "name": "AI Agent Playground",
+  "description": "An interface to configure, test, and debug AI agents. Dynamically renders agent configurations from a JSON schema and provides a real-time chat interface for interaction.",
+  "requestFramePermissions": []
+}
